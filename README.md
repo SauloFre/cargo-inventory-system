@@ -2,17 +2,17 @@
 
 # Motivation
 
-Introducao do ambiente
+Hoje em dia sistemas de e-commerce necessitam de estoques de carga cada vez mais dinamicos e rapidos em suas respostas, exemplos de empresas que normalmente precisam dessa dinamicidade sao: Amazon, Kaboom, Magazine Luiza, etc (normalmente varejo e e-commerc).
 
-Contemplacao das questoes-problema
+Com isso em mente, pretendemos desenvolver um sistema de estoque que resolva uma das principais dificuldades que existem em empresas desse tipo:
 
-Introducao de solucao proposta (oque queremos tentar fazer) (otimizacao das questoes-problema)
+ A dificuldade de apenas ser possivel realizar uma compra, com itens que existam no estoque.
 
-Hoje em dia sistemas de e-commerce necessitam de estoques de carga cada vez mais dinamicos e rapidos em suas respostas, isso eh percebido em empresas como a Amazon, Kaboom, Magazine Luiza, etc (normalmente varejo).
+Evitando, assim, a complicacao de uma compra ser realizada sem que o estoque, do determinado item, esteja disponivel. Oque poderia resultar em estorno do valor e provavel perda do cliente.
 
-Com isso em mente, pretendemos desenvolver um sistema de estoque que elucide um dos principais problemas que existem nessas empresas, o problema de apenas ser possivel realizar uma compra com itens que existam no estoque.
+De forma geral, todos os estoques visam esse objetivo, mas com a dinamicidade da internet e redes de distribuicao (logistica), tem-se questoes de fluxo de itens, pagamentos (estorno, confirmacao), disponibilidade, falta de produto (reposicao, fluxo imperfeito).
 
-De forma geral, todos os estoques visam esse objetivo, mas com a dinamicidade da internet e redes de distribuicao, tem-se questoes de fluxo de itens, pagamentos (estorno, confirmacao), disponibilidade, falta de produto (reposicao, fluxo imperfeito).
+Vamos abordar cada um desses itens individualmente e propor resolucoes viaveis e que incorporem nossos ideais de dinamicidade e entrega.
 
 # Objectives
 
