@@ -2,7 +2,7 @@
 
 # Motivation
 
-Hoje em dia sistemas de e-commerce necessitam de estoques de carga cada vez mais dinamicos e rapidos em suas respostas, exemplos de empresas que normalmente precisam dessa dinamicidade sao: Amazon, Kaboom, Magazine Luiza, etc (normalmente varejo e e-commerc).
+Hoje em dia sistemas de e-commerce necessitam de estoques de carga cada vez mais dinamicos e rapidos em suas respostas, exemplos de empresas que normalmente precisam dessa dinamicidade sao: Amazon, Kabum, Magazine Luiza, etc (normalmente varejo e e-commerc).
 
 Com isso em mente, pretendemos desenvolver um sistema de estoque que resolva uma das principais dificuldades que existem em empresas desse tipo:
 
